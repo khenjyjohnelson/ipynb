@@ -1,117 +1,47 @@
-# ipynb
- 
-# My Jupyter Notebook Project
+# personal-AI-journey
+My personal path to learn machine learning, mostly free resource I've found on the internet, with a broad domain and interests. I suggest to learn by order!
 
-Welcome to **My Jupyter Notebook Project**! This project is designed to run effortlessly using either **JupyterLab** or **Jupyter Notebook Composer**.
+# Learn Python first
+1. https://inventwithpython.com/ (Python fundamental) (Free)
+2. https://greenteapress.com/wp/ (Hands-on practice) (Free)
 
----
+# Starter (using TF) 
+https://www.oreilly.com/library/view/ai-and-machine/9781492078180/ (paid)
+https://www.manning.com/books/deep-learning-with-python-second-edition (paid)
 
-## Prerequisites
+# Take a Specialization
+1. https://www.coursera.org/professional-certificates/tensorflow-in-practice (paid)
 
-Before running this project, ensure you have the following installed on your machine:
+# Practice using TF
+1. https://www.tensorflow.org/tutorials (Free)
 
-1. **Python**: Version 3.7 or higher
-2. **JupyterLab** or **Jupyter Notebook Composer**
+# Go deeper with tensorflow
+1. https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/ (paid)
 
----
+# Math Concepts
+1. https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr (free) (3blue1brown) (Essence of calculus)
+2. https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/ (free) (Single variable calculus)
+3. https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab (free) (Linear Algebra)
+4. https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/ (free) (Linear Algebra)
+5. https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/math-for-deep-learning/ (free)
 
-## Setup Instructions
+# Advance Course and Book
+1. https://www.coursera.org/specializations/deep-learning (paid)
+2. http://neuralnetworksanddeeplearning.com/index.html (free)
 
-### 1. Clone the Repository
-Clone this repository to your local machine:
+# Implement paper and books!
+1. https://www.tensorflow.org/tutorials (free)
 
-```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+# ML with JS
+1. https://www.tensorflow.org/resources/learn-ml/basics-of-tensorflow-for-js-development (free and paid)
 
-2. Create a Virtual Environment (Optional but Recommended)
-Create and activate a virtual environment to avoid dependency conflicts:
+# Uni lectures (all free)
+1. http://introtodeeplearning.com/2022/index.html 
+2. https://cds.nyu.edu/deep-learning/
+3. https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/
 
-bash
-Copy code
-python -m venv myenv
-source myenv/bin/activate  # On Windows: myenv\Scripts\activate
-3. Install Dependencies
-Install the required Python libraries listed in requirements.txt:
-
-bash
-Copy code
-pip install -r requirements.txt
-If you don't have pip, install it first by running:
-
-bash
-Copy code
-python -m ensurepip --upgrade
-4. Install JupyterLab or Jupyter Notebook Composer
-To install JupyterLab, run:
-
-bash
-Copy code
-pip install jupyterlab
-Alternatively, to install Jupyter Notebook Composer, run:
-
-bash
-Copy code
-pip install notebook
-Running the Project
-Using JupyterLab
-Open your terminal and navigate to the project directory:
-
-bash
-Copy code
-cd /path/to/yourproject
-Start JupyterLab:
-
-bash
-Copy code
-jupyter lab
-Open the main.ipynb file in the JupyterLab interface.
-
-Using Jupyter Notebook Composer
-Open your terminal and navigate to the project directory:
-
-bash
-Copy code
-cd /path/to/yourproject
-Start Jupyter Notebook Composer:
-
-bash
-Copy code
-jupyter notebook
-Open the main.ipynb file in the Jupyter Notebook interface.
-
-Project Files
-main.ipynb: The main Jupyter Notebook file containing the project.
-requirements.txt: A list of required Python packages.
-README.md: Instructions and information about the project.
-Example Dependencies
-The requirements.txt file includes libraries commonly used for data analysis and visualization:
-
-Copy code
-numpy
-pandas
-matplotlib
-jupyterlab
-Troubleshooting
-Error: Command 'jupyter' not found
-
-Ensure that Jupyter is installed. You can install it by running:
-
-bash
-Copy code
-pip install jupyterlab
-Environment Issues
-
-If you experience conflicts with dependencies, create and use a virtual environment as described in the Setup Instructions.
-
-Notebook Compatibility
-
-Make sure to use a modern browser (e.g., Chrome, Firefox) when accessing JupyterLab or Jupyter Notebook.
-
-License
-This project is open-source and licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
-
-Questions or Feedback?
-If you encounter issues or have suggestions, please open an issue on GitHub or contact me at your.email@example.com.
-
-Happy coding! 🚀
+# Learn (PyTorch) 
+1. https://www.fast.ai/ (Free)
+2. https://d2l.ai/ (Free)
+3. https://pytorch.org/tutorials/ (Tutorials) (free)
+4. https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527 (paid)
