@@ -1,6 +1,6 @@
 # personal-AI-journey
 My personal path to learn machine learning, mostly free resource I've found on the internet, with a broad domain and interests. I suggest to learn by order!
-
+ 
 # Learn Python first
 1. https://inventwithpython.com/ (Python fundamental) (Free)
 2. https://greenteapress.com/wp/ (Hands-on practice) (Free)
